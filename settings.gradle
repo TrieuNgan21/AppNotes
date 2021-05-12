@@ -1,0 +1,3 @@
+include ':patternlockview-1.0.0-javadoc'
+include ':app'
+rootProject.name = "MyAppNotes"

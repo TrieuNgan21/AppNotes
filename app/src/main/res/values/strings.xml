@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">MyAppDiary</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="title">Viết tiêu đề nhật ký</string>
+    <string name="enter_note">Viết nội dung nhật ký</string>
+    <string name="save">Save</string>
+    <string name="date">29 October 2019</string>
+    <string name="edit">edit</string>
+    <string name="delete">delete</string>
+    <string name="update">update</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="searchview">Nhập tên tìm kiếm</string>
+
+    <string name="sizefonttitle">Cỡ chữ của tiêu đề</string>
+    <string name="sizefontnote">Cỡ chữ của nội dung</string>
+    <string name="sizefontdate">Cỡ chữ của ngày tháng</string>
+
+    <string name="stylefonttitle">Kiểu chữ của tiêu đề</string>
+    <string name="stylefontnote">Kiểu chữ của nội dung</string>
+    <string name="stylefontdate">Kiểu chữ của ngày tháng</string>
+
+    <string name="colorfonttitle">Màu chữ của tiêu đề</string>
+    <string name="colorfontnote">Màu chữ của nội dung</string>
+    <string name="colorfontdate">Màu chữ của ngày tháng</string>
+
+    <string name="selectcolorfonttitle">Chọn một màu cho tiêu đề</string>
+    <string name="selectcolorfontnote">Chọn một màu cho nội dung</string>
+    <string name="selectcolorfontdate">Chọn một màu cho ngày tháng</string>
+
+</resources>

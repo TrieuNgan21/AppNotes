@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_mainview"
+            android:icon="@drawable/ic_mainview"
+            android:title="Màn hình chính" />
+        <item
+            android:id="@+id/nav_add"
+            android:icon="@drawable/ic_pen"
+            android:title="Viết nhật ký" />
+        <item
+            android:id="@+id/nav_background"
+            android:icon="@drawable/ic_background"
+            android:title="Hình nền" />
+        <item
+            android:id="@+id/nav_fonttext"
+            android:icon="@drawable/ic_textfont"
+            android:title="Font chữ" />
+        <item
+            android:id="@+id/nav_colortext"
+            android:icon="@drawable/ic_colortext"
+            android:title="Màu chữ" />
+        <item
+            android:id="@+id/nav_fontsize"
+            android:icon="@drawable/ic_fontsize"
+            android:title="Cỡ chữ" />
+        <item
+            android:id="@+id/nav_applock"
+            android:icon="@drawable/ic_applock"
+            android:title="Khóa app" />
+        <item
+            android:id="@+id/nav_checklist"
+            android:icon="@drawable/ic_checklist"
+            android:title="Check List" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_rate"
+                android:icon="@drawable/ic_send_black_24dp"
+                android:title="Rate" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_share_black_24dp"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>

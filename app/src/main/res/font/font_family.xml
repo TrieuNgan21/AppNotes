@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <font
+        app:font="@font/blak_jar"
+        app:fontStyle="normal"
+        app:fontWeight="400"/>
+
+    <font
+        app:font="@font/comic_neue"
+        app:fontStyle="normal"
+        app:fontWeight="400"/>
+
+    <font
+        app:font="@font/handlee"
+        app:fontStyle="normal"
+        app:fontWeight="400"/>
+
+    <font
+        app:font="@font/josefin_sans_regular"
+        app:fontStyle="normal"
+        app:fontWeight="400"/>
+
+    <font
+        app:font="@font/monospace"
+        app:fontStyle="normal"
+        app:fontWeight="400"/>
+
+    <font
+        app:font="@font/pacifico"
+        app:fontStyle="normal"
+        app:fontWeight="400"/>
+
+    <font
+        app:font="@font/sans"
+        app:fontStyle="normal"
+        app:fontWeight="400"/>
+
+    <font
+        app:font="@font/serif"
+        app:fontStyle="normal"
+        app:fontWeight="400"/>
+
+    <font
+        app:font="@font/walkway"
+        app:fontStyle="italic"
+        app:fontWeight="400"/>
+
+</font-family>
